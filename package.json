@@ -1,0 +1,23 @@
+{
+  "name": "tic-tac",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "readline": "^1.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dhpdx/Tic-Tac.git"
+  },
+  "author": "Danny Hendrix",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dhpdx/Tic-Tac/issues"
+  },
+  "homepage": "https://github.com/dhpdx/Tic-Tac#readme"
+}
